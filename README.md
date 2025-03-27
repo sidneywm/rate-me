@@ -24,9 +24,16 @@ A simple and elegant star rating widget built with HTML and CSS.
 ## 🔧 Usage
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/sidneywm/rate-me.git
    cd rate-me
+
+## 👤 Author
+
+Sidney Wimart
+
+    GitHub: @sidneywm
 
 ## 📝 License
 
